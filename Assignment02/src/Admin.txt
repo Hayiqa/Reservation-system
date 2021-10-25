@@ -1,0 +1,3 @@
+0529,Anas,32,Male,546 G-10/1 ISB
+0678,Zainab Azeem,21,Female,G-8/2 ISB
+0876,Maham,23,Female,1023 G-10/4
